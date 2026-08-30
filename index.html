@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Student Results</title>
+
+    <link rel="stylesheet" href="./public/css/index.css">
+</head>
+
+<body>
+
+    <div class="search-container">
+
+        <h1>Student Results</h1>
+
+        <form action="/results" method="GET">
+
+            <label for="hallTicketNumber">
+                Hall Ticket Number
+            </label>
+
+            <input
+                type="text"
+                id="hallTicketNumber"
+                name="hallTicketNumber"
+                placeholder="Enter 6-character hall ticket number"
+                maxlength="6"
+                required
+            >
+
+            <button type="submit">
+                Fetch Results
+            </button>
+
+        </form>
+
+    </div>
+
+</body>
+</html>

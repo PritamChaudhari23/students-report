@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+    margin: 0;
+    padding: 40px;
+}
+
+.report-card {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 30px;
+    border: 1px solid #ddd;
+}
+
+h1 {
+    text-align: center;
+}
+
+.student-info {
+    margin-bottom: 20px;
+}
+
+.student-info p {
+    margin: 8px 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background: #f0f0f0;
+}
+
+.summary {
+    margin-top: 20px;
+}
+
+.summary p {
+    margin: 8px 0;
+}
+
+.pass {
+    color: green;
+    font-weight: bold;
+}
+
+.fail {
+    color: red;
+    font-weight: bold;
+}

@@ -1,0 +1,902 @@
+[
+  {
+    "hallTicketNumber": "HT110001",
+    "studentName": "Aarav Sharma",
+    "class": "11",
+    "physics": 52,
+    "chemistry": 64,
+    "biology": 72,
+    "mathematics": 78
+  },
+  {
+    "hallTicketNumber": "HT110002",
+    "studentName": "Vivaan Patil",
+    "class": "11",
+    "physics": 69,
+    "chemistry": 93,
+    "biology": 43,
+    "mathematics": 55
+  },
+  {
+    "hallTicketNumber": "HT110003",
+    "studentName": "Aditya Deshmukh",
+    "class": "11",
+    "physics": 86,
+    "chemistry": 56,
+    "biology": 80,
+    "mathematics": 98
+  },
+  {
+    "hallTicketNumber": "HT110004",
+    "studentName": "Arjun Kulkarni",
+    "class": "11",
+    "physics": 37,
+    "chemistry": 85,
+    "biology": 51,
+    "mathematics": 75
+  },
+  {
+    "hallTicketNumber": "HT110005",
+    "studentName": "Sai Joshi",
+    "class": "11",
+    "physics": 54,
+    "chemistry": 48,
+    "biology": 88,
+    "mathematics": 52
+  },
+  {
+    "hallTicketNumber": "HT110006",
+    "studentName": "Reyansh Jadhav",
+    "class": "11",
+    "physics": 71,
+    "chemistry": 77,
+    "biology": 59,
+    "mathematics": 95
+  },
+  {
+    "hallTicketNumber": "HT110007",
+    "studentName": "Atharv Pawar",
+    "class": "11",
+    "physics": 88,
+    "chemistry": 40,
+    "biology": 96,
+    "mathematics": 72
+  },
+  {
+    "hallTicketNumber": "HT110008",
+    "studentName": "Krishna Chavan",
+    "class": "11",
+    "physics": 39,
+    "chemistry": 69,
+    "biology": 67,
+    "mathematics": 49
+  },
+  {
+    "hallTicketNumber": "HT110009",
+    "studentName": "Ishaan More",
+    "class": "11",
+    "physics": 56,
+    "chemistry": 98,
+    "biology": 38,
+    "mathematics": 92
+  },
+  {
+    "hallTicketNumber": "HT110010",
+    "studentName": "Kabir Shinde",
+    "class": "11",
+    "physics": 73,
+    "chemistry": 61,
+    "biology": 75,
+    "mathematics": 69
+  },
+  {
+    "hallTicketNumber": "HT110011",
+    "studentName": "Rohan Kadam",
+    "class": "11",
+    "physics": 90,
+    "chemistry": 90,
+    "biology": 46,
+    "mathematics": 46
+  },
+  {
+    "hallTicketNumber": "HT110012",
+    "studentName": "Vedant Bhosale",
+    "class": "11",
+    "physics": 41,
+    "chemistry": 53,
+    "biology": 83,
+    "mathematics": 89
+  },
+  {
+    "hallTicketNumber": "HT110013",
+    "studentName": "Dhruv Mishra",
+    "class": "11",
+    "physics": 58,
+    "chemistry": 82,
+    "biology": 54,
+    "mathematics": 66
+  },
+  {
+    "hallTicketNumber": "HT110014",
+    "studentName": "Yash Verma",
+    "class": "11",
+    "physics": 75,
+    "chemistry": 45,
+    "biology": 91,
+    "mathematics": 43
+  },
+  {
+    "hallTicketNumber": "HT110015",
+    "studentName": "Kunal Gupta",
+    "class": "11",
+    "physics": 92,
+    "chemistry": 74,
+    "biology": 62,
+    "mathematics": 86
+  },
+  {
+    "hallTicketNumber": "HT110016",
+    "studentName": "Om Mehta",
+    "class": "11",
+    "physics": 43,
+    "chemistry": 37,
+    "biology": 99,
+    "mathematics": 63
+  },
+  {
+    "hallTicketNumber": "HT110017",
+    "studentName": "Pranav Singh",
+    "class": "11",
+    "physics": 60,
+    "chemistry": 66,
+    "biology": 70,
+    "mathematics": 40
+  },
+  {
+    "hallTicketNumber": "HT110018",
+    "studentName": "Aniket Yadav",
+    "class": "11",
+    "physics": 77,
+    "chemistry": 95,
+    "biology": 41,
+    "mathematics": 83
+  },
+  {
+    "hallTicketNumber": "HT110019",
+    "studentName": "Siddharth Kumar",
+    "class": "11",
+    "physics": 94,
+    "chemistry": 58,
+    "biology": 78,
+    "mathematics": 60
+  },
+  {
+    "hallTicketNumber": "HT110020",
+    "studentName": "Rahul Agarwal",
+    "class": "11",
+    "physics": 45,
+    "chemistry": 87,
+    "biology": 49,
+    "mathematics": 37
+  },
+  {
+    "hallTicketNumber": "HT110021",
+    "studentName": "Aanya Rathod",
+    "class": "11",
+    "physics": 62,
+    "chemistry": 50,
+    "biology": 86,
+    "mathematics": 80
+  },
+  {
+    "hallTicketNumber": "HT110022",
+    "studentName": "Ananya Thakur",
+    "class": "11",
+    "physics": 79,
+    "chemistry": 79,
+    "biology": 57,
+    "mathematics": 57
+  },
+  {
+    "hallTicketNumber": "HT110023",
+    "studentName": "Aadhya Desai",
+    "class": "11",
+    "physics": 96,
+    "chemistry": 42,
+    "biology": 94,
+    "mathematics": 100
+  },
+  {
+    "hallTicketNumber": "HT110024",
+    "studentName": "Diya Naik",
+    "class": "11",
+    "physics": 47,
+    "chemistry": 71,
+    "biology": 65,
+    "mathematics": 77
+  },
+  {
+    "hallTicketNumber": "HT110025",
+    "studentName": "Isha Sawant",
+    "class": "11",
+    "physics": 64,
+    "chemistry": 100,
+    "biology": 36,
+    "mathematics": 54
+  },
+  {
+    "hallTicketNumber": "HT110026",
+    "studentName": "Kavya Gawande",
+    "class": "11",
+    "physics": 81,
+    "chemistry": 63,
+    "biology": 73,
+    "mathematics": 97
+  },
+  {
+    "hallTicketNumber": "HT110027",
+    "studentName": "Myra Saxena",
+    "class": "11",
+    "physics": 98,
+    "chemistry": 92,
+    "biology": 44,
+    "mathematics": 74
+  },
+  {
+    "hallTicketNumber": "HT110028",
+    "studentName": "Sara Malhotra",
+    "class": "11",
+    "physics": 49,
+    "chemistry": 55,
+    "biology": 81,
+    "mathematics": 51
+  },
+  {
+    "hallTicketNumber": "HT110029",
+    "studentName": "Avni Nair",
+    "class": "11",
+    "physics": 66,
+    "chemistry": 84,
+    "biology": 52,
+    "mathematics": 94
+  },
+  {
+    "hallTicketNumber": "HT110030",
+    "studentName": "Riya Iyer",
+    "class": "11",
+    "physics": 83,
+    "chemistry": 47,
+    "biology": 89,
+    "mathematics": 71
+  },
+  {
+    "hallTicketNumber": "HT110031",
+    "studentName": "Sneha Reddy",
+    "class": "11",
+    "physics": 100,
+    "chemistry": 76,
+    "biology": 60,
+    "mathematics": 48
+  },
+  {
+    "hallTicketNumber": "HT110032",
+    "studentName": "Priya Rao",
+    "class": "11",
+    "physics": 51,
+    "chemistry": 39,
+    "biology": 97,
+    "mathematics": 91
+  },
+  {
+    "hallTicketNumber": "HT110033",
+    "studentName": "Pooja Shetty",
+    "class": "11",
+    "physics": 68,
+    "chemistry": 68,
+    "biology": 68,
+    "mathematics": 68
+  },
+  {
+    "hallTicketNumber": "HT110034",
+    "studentName": "Nisha Bhat",
+    "class": "11",
+    "physics": 85,
+    "chemistry": 97,
+    "biology": 39,
+    "mathematics": 45
+  },
+  {
+    "hallTicketNumber": "HT110035",
+    "studentName": "Meera Menon",
+    "class": "11",
+    "physics": 36,
+    "chemistry": 60,
+    "biology": 76,
+    "mathematics": 88
+  },
+  {
+    "hallTicketNumber": "HT110036",
+    "studentName": "Tanvi Pillai",
+    "class": "11",
+    "physics": 53,
+    "chemistry": 89,
+    "biology": 47,
+    "mathematics": 65
+  },
+  {
+    "hallTicketNumber": "HT110037",
+    "studentName": "Neha Banerjee",
+    "class": "11",
+    "physics": 70,
+    "chemistry": 52,
+    "biology": 84,
+    "mathematics": 42
+  },
+  {
+    "hallTicketNumber": "HT110038",
+    "studentName": "Shreya Chatterjee",
+    "class": "11",
+    "physics": 87,
+    "chemistry": 81,
+    "biology": 55,
+    "mathematics": 85
+  },
+  {
+    "hallTicketNumber": "HT110039",
+    "studentName": "Ira Das",
+    "class": "11",
+    "physics": 38,
+    "chemistry": 44,
+    "biology": 92,
+    "mathematics": 62
+  },
+  {
+    "hallTicketNumber": "HT110040",
+    "studentName": "Saanvi Mukherjee",
+    "class": "11",
+    "physics": 55,
+    "chemistry": 73,
+    "biology": 63,
+    "mathematics": 39
+  },
+  {
+    "hallTicketNumber": "HT110041",
+    "studentName": "Simran Sinha",
+    "class": "11",
+    "physics": 72,
+    "chemistry": 36,
+    "biology": 100,
+    "mathematics": 82
+  },
+  {
+    "hallTicketNumber": "HT110042",
+    "studentName": "Mahi Kapoor",
+    "class": "11",
+    "physics": 89,
+    "chemistry": 65,
+    "biology": 71,
+    "mathematics": 59
+  },
+  {
+    "hallTicketNumber": "HT110043",
+    "studentName": "Anushka Khan",
+    "class": "11",
+    "physics": 40,
+    "chemistry": 94,
+    "biology": 42,
+    "mathematics": 36
+  },
+  {
+    "hallTicketNumber": "HT110044",
+    "studentName": "Palak Ansari",
+    "class": "11",
+    "physics": 57,
+    "chemistry": 57,
+    "biology": 79,
+    "mathematics": 79
+  },
+  {
+    "hallTicketNumber": "HT110045",
+    "studentName": "Riddhi Shaikh",
+    "class": "11",
+    "physics": 74,
+    "chemistry": 86,
+    "biology": 50,
+    "mathematics": 56
+  },
+  {
+    "hallTicketNumber": "HT110046",
+    "studentName": "Tanya Dutta",
+    "class": "11",
+    "physics": 91,
+    "chemistry": 49,
+    "biology": 87,
+    "mathematics": 99
+  },
+  {
+    "hallTicketNumber": "HT110047",
+    "studentName": "Nandini Roy",
+    "class": "11",
+    "physics": 42,
+    "chemistry": 78,
+    "biology": 58,
+    "mathematics": 76
+  },
+  {
+    "hallTicketNumber": "HT110048",
+    "studentName": "Shruti Bose",
+    "class": "11",
+    "physics": 59,
+    "chemistry": 41,
+    "biology": 95,
+    "mathematics": 53
+  },
+  {
+    "hallTicketNumber": "HT110049",
+    "studentName": "Aditi Vaidya",
+    "class": "11",
+    "physics": 76,
+    "chemistry": 70,
+    "biology": 66,
+    "mathematics": 96
+  },
+  {
+    "hallTicketNumber": "HT110050",
+    "studentName": "Muskan Bhagat",
+    "class": "11",
+    "physics": 93,
+    "chemistry": 99,
+    "biology": 37,
+    "mathematics": 73
+  },
+  {
+    "hallTicketNumber": "HT120001",
+    "studentName": "Vihaan Sharma",
+    "class": "12",
+    "physics": 44,
+    "chemistry": 62,
+    "biology": 74,
+    "mathematics": 50
+  },
+  {
+    "hallTicketNumber": "HT120002",
+    "studentName": "Anaya Patil",
+    "class": "12",
+    "physics": 61,
+    "chemistry": 91,
+    "biology": 45,
+    "mathematics": 93
+  },
+  {
+    "hallTicketNumber": "HT120003",
+    "studentName": "Aryan Deshmukh",
+    "class": "12",
+    "physics": 78,
+    "chemistry": 54,
+    "biology": 82,
+    "mathematics": 70
+  },
+  {
+    "hallTicketNumber": "HT120004",
+    "studentName": "Ishita Kulkarni",
+    "class": "12",
+    "physics": 95,
+    "chemistry": 83,
+    "biology": 53,
+    "mathematics": 47
+  },
+  {
+    "hallTicketNumber": "HT120005",
+    "studentName": "Rudra Joshi",
+    "class": "12",
+    "physics": 46,
+    "chemistry": 46,
+    "biology": 90,
+    "mathematics": 90
+  },
+  {
+    "hallTicketNumber": "HT120006",
+    "studentName": "Samar Jadhav",
+    "class": "12",
+    "physics": 63,
+    "chemistry": 75,
+    "biology": 61,
+    "mathematics": 67
+  },
+  {
+    "hallTicketNumber": "HT120007",
+    "studentName": "Ayaan Pawar",
+    "class": "12",
+    "physics": 80,
+    "chemistry": 38,
+    "biology": 98,
+    "mathematics": 44
+  },
+  {
+    "hallTicketNumber": "HT120008",
+    "studentName": "Anvi Chavan",
+    "class": "12",
+    "physics": 97,
+    "chemistry": 67,
+    "biology": 69,
+    "mathematics": 87
+  },
+  {
+    "hallTicketNumber": "HT120009",
+    "studentName": "Dev More",
+    "class": "12",
+    "physics": 48,
+    "chemistry": 96,
+    "biology": 40,
+    "mathematics": 64
+  },
+  {
+    "hallTicketNumber": "HT120010",
+    "studentName": "Parth Shinde",
+    "class": "12",
+    "physics": 65,
+    "chemistry": 59,
+    "biology": 77,
+    "mathematics": 41
+  },
+  {
+    "hallTicketNumber": "HT120011",
+    "studentName": "Manav Kadam",
+    "class": "12",
+    "physics": 82,
+    "chemistry": 88,
+    "biology": 48,
+    "mathematics": 84
+  },
+  {
+    "hallTicketNumber": "HT120012",
+    "studentName": "Aarohi Bhosale",
+    "class": "12",
+    "physics": 99,
+    "chemistry": 51,
+    "biology": 85,
+    "mathematics": 61
+  },
+  {
+    "hallTicketNumber": "HT120013",
+    "studentName": "Raghav Mishra",
+    "class": "12",
+    "physics": 50,
+    "chemistry": 80,
+    "biology": 56,
+    "mathematics": 38
+  },
+  {
+    "hallTicketNumber": "HT120014",
+    "studentName": "Nikhil Verma",
+    "class": "12",
+    "physics": 67,
+    "chemistry": 43,
+    "biology": 93,
+    "mathematics": 81
+  },
+  {
+    "hallTicketNumber": "HT120015",
+    "studentName": "Harsh Gupta",
+    "class": "12",
+    "physics": 84,
+    "chemistry": 72,
+    "biology": 64,
+    "mathematics": 58
+  },
+  {
+    "hallTicketNumber": "HT120016",
+    "studentName": "Kartik Mehta",
+    "class": "12",
+    "physics": 35,
+    "chemistry": 35,
+    "biology": 35,
+    "mathematics": 35
+  },
+  {
+    "hallTicketNumber": "HT120017",
+    "studentName": "Varun Singh",
+    "class": "12",
+    "physics": 52,
+    "chemistry": 64,
+    "biology": 72,
+    "mathematics": 78
+  },
+  {
+    "hallTicketNumber": "HT120018",
+    "studentName": "Akshay Yadav",
+    "class": "12",
+    "physics": 69,
+    "chemistry": 93,
+    "biology": 43,
+    "mathematics": 55
+  },
+  {
+    "hallTicketNumber": "HT120019",
+    "studentName": "Ritesh Kumar",
+    "class": "12",
+    "physics": 86,
+    "chemistry": 56,
+    "biology": 80,
+    "mathematics": 98
+  },
+  {
+    "hallTicketNumber": "HT120020",
+    "studentName": "Mohit Agarwal",
+    "class": "12",
+    "physics": 37,
+    "chemistry": 85,
+    "biology": 51,
+    "mathematics": 75
+  },
+  {
+    "hallTicketNumber": "HT120021",
+    "studentName": "Kritika Rathod",
+    "class": "12",
+    "physics": 54,
+    "chemistry": 48,
+    "biology": 88,
+    "mathematics": 52
+  },
+  {
+    "hallTicketNumber": "HT120022",
+    "studentName": "Navya Thakur",
+    "class": "12",
+    "physics": 71,
+    "chemistry": 77,
+    "biology": 59,
+    "mathematics": 95
+  },
+  {
+    "hallTicketNumber": "HT120023",
+    "studentName": "Kiara Desai",
+    "class": "12",
+    "physics": 88,
+    "chemistry": 40,
+    "biology": 96,
+    "mathematics": 72
+  },
+  {
+    "hallTicketNumber": "HT120024",
+    "studentName": "Anika Naik",
+    "class": "12",
+    "physics": 39,
+    "chemistry": 69,
+    "biology": 67,
+    "mathematics": 49
+  },
+  {
+    "hallTicketNumber": "HT120025",
+    "studentName": "Pallavi Sawant",
+    "class": "12",
+    "physics": 56,
+    "chemistry": 98,
+    "biology": 38,
+    "mathematics": 92
+  },
+  {
+    "hallTicketNumber": "HT120026",
+    "studentName": "Komal Gawande",
+    "class": "12",
+    "physics": 73,
+    "chemistry": 61,
+    "biology": 75,
+    "mathematics": 69
+  },
+  {
+    "hallTicketNumber": "HT120027",
+    "studentName": "Rhea Saxena",
+    "class": "12",
+    "physics": 90,
+    "chemistry": 90,
+    "biology": 46,
+    "mathematics": 46
+  },
+  {
+    "hallTicketNumber": "HT120028",
+    "studentName": "Alisha Malhotra",
+    "class": "12",
+    "physics": 41,
+    "chemistry": 53,
+    "biology": 83,
+    "mathematics": 89
+  },
+  {
+    "hallTicketNumber": "HT120029",
+    "studentName": "Nitya Nair",
+    "class": "12",
+    "physics": 58,
+    "chemistry": 82,
+    "biology": 54,
+    "mathematics": 66
+  },
+  {
+    "hallTicketNumber": "HT120030",
+    "studentName": "Manya Iyer",
+    "class": "12",
+    "physics": 75,
+    "chemistry": 45,
+    "biology": 91,
+    "mathematics": 43
+  },
+  {
+    "hallTicketNumber": "HT120031",
+    "studentName": "Shivani Reddy",
+    "class": "12",
+    "physics": 92,
+    "chemistry": 74,
+    "biology": 62,
+    "mathematics": 86
+  },
+  {
+    "hallTicketNumber": "HT120032",
+    "studentName": "Priti Rao",
+    "class": "12",
+    "physics": 43,
+    "chemistry": 37,
+    "biology": 99,
+    "mathematics": 63
+  },
+  {
+    "hallTicketNumber": "HT120033",
+    "studentName": "Sakshi Shetty",
+    "class": "12",
+    "physics": 60,
+    "chemistry": 66,
+    "biology": 70,
+    "mathematics": 40
+  },
+  {
+    "hallTicketNumber": "HT120034",
+    "studentName": "Bhavna Bhat",
+    "class": "12",
+    "physics": 77,
+    "chemistry": 95,
+    "biology": 41,
+    "mathematics": 83
+  },
+  {
+    "hallTicketNumber": "HT120035",
+    "studentName": "Anjali Menon",
+    "class": "12",
+    "physics": 94,
+    "chemistry": 58,
+    "biology": 78,
+    "mathematics": 60
+  },
+  {
+    "hallTicketNumber": "HT120036",
+    "studentName": "Roshni Pillai",
+    "class": "12",
+    "physics": 45,
+    "chemistry": 87,
+    "biology": 49,
+    "mathematics": 37
+  },
+  {
+    "hallTicketNumber": "HT120037",
+    "studentName": "Ishwari Banerjee",
+    "class": "12",
+    "physics": 62,
+    "chemistry": 50,
+    "biology": 86,
+    "mathematics": 80
+  },
+  {
+    "hallTicketNumber": "HT120038",
+    "studentName": "Madhuri Chatterjee",
+    "class": "12",
+    "physics": 79,
+    "chemistry": 79,
+    "biology": 57,
+    "mathematics": 57
+  },
+  {
+    "hallTicketNumber": "HT120039",
+    "studentName": "Ritika Das",
+    "class": "12",
+    "physics": 96,
+    "chemistry": 42,
+    "biology": 94,
+    "mathematics": 100
+  },
+  {
+    "hallTicketNumber": "HT120040",
+    "studentName": "Kashish Mukherjee",
+    "class": "12",
+    "physics": 47,
+    "chemistry": 71,
+    "biology": 65,
+    "mathematics": 77
+  },
+  {
+    "hallTicketNumber": "HT120041",
+    "studentName": "Payal Sinha",
+    "class": "12",
+    "physics": 64,
+    "chemistry": 100,
+    "biology": 36,
+    "mathematics": 54
+  },
+  {
+    "hallTicketNumber": "HT120042",
+    "studentName": "Kiran Kapoor",
+    "class": "12",
+    "physics": 81,
+    "chemistry": 63,
+    "biology": 73,
+    "mathematics": 97
+  },
+  {
+    "hallTicketNumber": "HT120043",
+    "studentName": "Zoya Khan",
+    "class": "12",
+    "physics": 98,
+    "chemistry": 92,
+    "biology": 44,
+    "mathematics": 74
+  },
+  {
+    "hallTicketNumber": "HT120044",
+    "studentName": "Ayesha Ansari",
+    "class": "12",
+    "physics": 49,
+    "chemistry": 55,
+    "biology": 81,
+    "mathematics": 51
+  },
+  {
+    "hallTicketNumber": "HT120045",
+    "studentName": "Sana Shaikh",
+    "class": "12",
+    "physics": 66,
+    "chemistry": 84,
+    "biology": 52,
+    "mathematics": 94
+  },
+  {
+    "hallTicketNumber": "HT120046",
+    "studentName": "Mitali Dutta",
+    "class": "12",
+    "physics": 83,
+    "chemistry": 47,
+    "biology": 89,
+    "mathematics": 71
+  },
+  {
+    "hallTicketNumber": "HT120047",
+    "studentName": "Tia Roy",
+    "class": "12",
+    "physics": 100,
+    "chemistry": 76,
+    "biology": 60,
+    "mathematics": 48
+  },
+  {
+    "hallTicketNumber": "HT120048",
+    "studentName": "Riya Bose",
+    "class": "12",
+    "physics": 51,
+    "chemistry": 39,
+    "biology": 97,
+    "mathematics": 91
+  },
+  {
+    "hallTicketNumber": "HT120049",
+    "studentName": "Vaishnavi Vaidya",
+    "class": "12",
+    "physics": 68,
+    "chemistry": 68,
+    "biology": 68,
+    "mathematics": 68
+  },
+  {
+    "hallTicketNumber": "HT120050",
+    "studentName": "Poonam Bhagat",
+    "class": "12",
+    "physics": 85,
+    "chemistry": 97,
+    "biology": 39,
+    "mathematics": 45
+  }
+]

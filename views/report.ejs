@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Report Card</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+    <div class="report-card">
+        <h1>Student Report Card</h1>
+        <div class="student-info">
+            <p>
+                <strong>Hall Ticket:</strong>
+                <%= student.hallTicketNumber %>
+            </p>
+
+            <p>
+                <strong>Student Name:</strong>
+                <%= student.studentName %>
+            </p>
+
+            <p>
+                <strong>Class:</strong>
+                <%= student.class %>
+            </p>
+        </div>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Subject</th>
+                    <th>Marks</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>Physics</td>
+                    <td>
+                        <%= student.physics %> / 100
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Chemistry</td>
+                    <td>
+                        <%= student.chemistry %> / 100
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Biology</td>
+                    <td>
+                        <%= student.biology %> / 100
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Mathematics</td>
+                    <td>
+                        <%= student.mathematics %> / 100
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="summary">
+            <p>
+                <strong>Total:</strong>
+                <%= total %> / 400
+            </p>
+
+            <p>
+                <strong>Percentage:</strong>
+                <%= percentage %>%
+            </p>
+
+            <p>
+                <strong>Result:</strong>
+                <% if (result==="PASS" ) { %>
+                    <span class="pass">PASS</span>
+                    <% } else { %>
+                        <span class="fail">FAIL</span>
+                        <% } %>
+            </p>
+        </div>
+
+    </div>
+
+</body>
+
+</html>

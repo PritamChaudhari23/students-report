@@ -2,9 +2,11 @@ const Student = require("./Student");
 
 const getStudentResult = async (req, res) => {
   try {
-    const { hallTicketNumber } = req.params;
+    const { hallTicketNumber } = req.query;
 
-    const student = await Student.findOne({ hallTicketNumber });
+    const student = await Student.findOne({
+      hallTicketNumber,
+    });
 
     if (!student) {
       return res.status(404).send("Student not found");
@@ -36,7 +38,7 @@ const getStudentResult = async (req, res) => {
 
 const addStudent = async (req, res) => {
   try {
-    const student = await Student.create(req.body);
+    await Student.create(req.body);
 
     res.status(201).send("Student added successfully");
   } catch (error) {

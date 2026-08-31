@@ -4,9 +4,6 @@ const path = require("path");
 const { getStudentResult, addStudent } = require("./studentController");
 
 const router = express.Router();
-router.get("/results/:hallTicketNumber", getStudentResult);
-
-router.post("/students", addStudent);
 
 router.get("/", (req, res) => {
   res.sendFile(path.join(__dirname, "views", "index.html"));
@@ -15,5 +12,9 @@ router.get("/", (req, res) => {
 router.get("/add-student", (req, res) => {
   res.sendFile(path.join(__dirname, "views", "add-student.html"));
 });
+
+router.get("/results", getStudentResult);
+
+router.post("/students", addStudent);
 
 module.exports = router;

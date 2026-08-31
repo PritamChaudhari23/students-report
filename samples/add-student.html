@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Add Student</title>
+
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Add Student</h1>
+        <div class="form-grid">
+            <form action="/students" method="POST">
+
+                <div class="form-group">
+                    <label for="hallTicketNumber">
+                        Hall Ticket Number
+                    </label>
+
+                    <input type="text" id="hallTicketNumber" name="hallTicketNumber" maxlength="7" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="studentName">
+                        Student Name
+                    </label>
+
+                    <input type="text" id="studentName" name="studentName" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="class">
+                        Class
+                    </label>
+
+                    <select id="class" name="class" required>
+                        <option value="">Select Class</option>
+                        <option value="11">11</option>
+                        <option value="12">12</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="physics">Physics</label>
+                    <input type="number" id="physics" name="physics" min="0" max="100" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="chemistry">Chemistry</label>
+                    <input type="number" id="chemistry" name="chemistry" min="0" max="100" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="biology">Biology</label>
+                    <input type="number" id="biology" name="biology" min="0" max="100" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="mathematics">Mathematics</label>
+                    <input type="number" id="mathematics" name="mathematics" min="0" max="100" required>
+                </div>
+
+                <button type="submit">
+                    Add Student
+                </button>
+
+            </form>
+        </div>
+    </div>
+
+</body>
+
+</html>

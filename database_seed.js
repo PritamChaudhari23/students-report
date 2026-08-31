@@ -1,6 +1,6 @@
-import connectDB from "../config/db";
-import students from "./student_report_seed.json";
-import Student from "./Student";
+const connectDB = require("./config");
+const students = require("./data/student_report_seed.json");
+const Student = require("./Student");
 
 const seedDatabase = async () => {
   try {

@@ -24,8 +24,9 @@ body {
 }
 
 .report-card {
-    width: 650px;
+    width: 550px;
     padding: 35px;
+    margin: 30px;
     background: white;
     border-radius: 14px;
     box-shadow: 0 8px 25px rgba(60, 80, 120, 0.15);
@@ -130,4 +131,17 @@ th {
 .fail {
     color: #d92d20;
     font-weight: bold;
+}
+
+.add-student-link {
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+    color: #4f46e5;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.add-student-link:hover {
+    text-decoration: underline;
 }

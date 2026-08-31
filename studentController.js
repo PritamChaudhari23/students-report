@@ -40,7 +40,7 @@ const addStudent = async (req, res) => {
   try {
     await Student.create(req.body);
 
-    res.status(201).send("Student added successfully");
+    res.redirect("/?success=Student added successfully");
   } catch (error) {
     console.error("Error adding student:", error);
     res.status(400).send("Failed to add student");

@@ -31,8 +31,19 @@
 
         </form>
 
+        <a href="/add-student" class="add-student-link">
+            Add Student
+        </a>
     </div>
 
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const message = params.get("success");
+
+        if (message) {
+            alert(message);
+        }
+    </script>
 </body>
 
 </html>
